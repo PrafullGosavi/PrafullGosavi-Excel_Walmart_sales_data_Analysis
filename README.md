@@ -1,1 +1,3 @@
 # PrafullGosavi-Excel_Walmart_sales_data_Analysis
+The dataset contains total sales transactions from Walmart across all states and cities in United State. the period of 2011 to 2014.
+This project aims to analyze Walmart’s sales data to identify key trends, meaningful insights. Covering the period from 2011 to 2014, the analysis encompasses various aspects of sales data, including regional sales performance, product category analysis, total orders analysis, total sales analysis, sales by state analysis. also many more insights we have find out using power bi like how much sales were done in the year 2011 to 2014, then also how much profit Walmart company earn by years, also find out the total orders by month etc.
